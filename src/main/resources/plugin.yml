@@ -1,0 +1,5 @@
+name: DetailsEvents
+version: '${project.version}'
+main: com.github.tanokun.detailsevents.DetailsEvents
+api-version: 1.18
+authors: [ tanokun ]
